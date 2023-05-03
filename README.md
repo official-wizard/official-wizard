@@ -12,7 +12,7 @@
 
 <div>
    <ul align="right">
-      <h2>♥ 𝓣𝓸𝓸𝓵 𝓑𝓸𝔁 ♥ ✧ﾟ･:*(◠︿◠✿)</h2>
+      <h2>♥ 𝓣𝓸𝓸𝓵 𝓑𝓸𝔁 ♥ ヽ(・∀・)ﾉ</h2>
       <div>
          <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=java,kotlin,c,cs,cpp" />
