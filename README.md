@@ -41,7 +41,7 @@
   </ul>
 </div>
 <h2></h2>
-<p align="left"><img src="https://i.pinimg.com/originals/33/b9/db/33b9dbebe5f952b1ff77c1b1b227ed18.gif"/></p>
+<p align="left"><img src="http://img2.joyreactor.com/pics/post/anime-gif-anime-pixel-art-gif-1130094.gif"/></p>
 
 <ul>
     <p align="left">
