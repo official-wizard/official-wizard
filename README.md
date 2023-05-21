@@ -35,7 +35,7 @@
       </div>
       <div>
          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=idea,photoshop,illustrator,androidstudio" />
+            <img src="https://skillicons.dev/icons?i=idea,photoshop,illustrator,androidstudio,grafana,postman" />
          </a>
       </div>
   </ul>
