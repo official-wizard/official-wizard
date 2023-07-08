@@ -42,16 +42,3 @@
 </div>
 <h2></h2>
 <p align="left"><img src="http://img2.joyreactor.com/pics/post/anime-gif-anime-pixel-art-gif-1130094.gif"/></p>
-
-<ul>
-    <p align="left">
-        <a href="https://github.com/official-wizard" style="width: 1000px;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=official-wizard&layout=compact&theme=radical&cache_seconds=1&card_width=445&langs_count=8" />
-        </a>
-        <br />
-        <a href="https://github.com/official-wizard">
-            <img src="https://github-readme-stats.vercel.app/api?show_owner=true&include_all_commits=true&count_private=true&username=official-wizard&show_icons=true&theme=radical&cache_seconds=1" />
-        </a>
-        <br />
-    </p>
-</ul>
