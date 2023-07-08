@@ -41,4 +41,4 @@
   </ul>
 </div>
 <h2></h2>
-<p align="left"><img src="https://usagif.com/wp-content/uploads/gify/51-anime-dance-transparent.gif"/></p>
+<p align="left"><img height="400px" src="51-anime-dance-transparent.gif"/></p>
