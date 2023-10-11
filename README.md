@@ -1,6 +1,6 @@
 <div>
    <ul align="left">
-      <h2>(人ﾟ∀ﾟ) ♥ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ♥</h2>
+      <h2>(▰˘◡˘▰) 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h2>
       <div align="left">
        🧙‍♂ ɪ ʟɪᴋᴇ COMICS! </br>
        🧙‍♂ ɪ ᴇɴᴊᴏʏ ANIME! </br>
@@ -12,7 +12,7 @@
 
 <div>
    <ul align="right">
-      <h2>♥ 𝓣𝓸𝓸𝓵 𝓑𝓸𝔁 ♥ ヽ(・∀・)ﾉ</h2>
+      <h2>𝚃𝚘𝚘𝚕𝚋𝚘𝚡 シ</h2>
       <div>
          <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=java,kotlin,c,cs,cpp" />
