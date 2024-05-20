@@ -2,7 +2,7 @@
       <img height="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNuenNmNXI1ZmprdmcyaGhnNzlydWg3ZDg2Y2J1N3d5eHBoczV5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XeAzRBAEexsn0rSQQD/giphy.gif"/>
 </p>
 
-<h2 align="center">♨(⋆‿⋆)♨ Skills</h2>
+<h2 align="center">Skills</h2>
 <p align="center">
       <img src="https://skillicons.dev/icons?i=java,kotlin" />
       <img src="https://skillicons.dev/icons?i=javascript" />
@@ -11,7 +11,7 @@
       <img src="https://skillicons.dev/icons?i=idea,androidstudio,grafana,postman" />
 </p>
 
-<h2 align="center">(҂⌣̀_⌣́) Hobbies</h2>
+<h2 align="center">Hobbies</h2>
 <p align="center">
       <img src="https://upload.wikimedia.org/wikipedia/en/0/04/Nintendo_64_Logo.svg" height="60" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/GC_Logo.svg" height="60" />
