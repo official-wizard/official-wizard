@@ -11,9 +11,19 @@
       <img src="https://skillicons.dev/icons?i=idea,androidstudio,grafana,postman" />
 </p>
 
-<h2>(҂⌣̀_⌣́) Hobbies</h2>
-<p>
- 🎮 Gaming <br> 🦸 Comics <br> 🧙‍♀️ Magic the Gathering <br> 🏵️ Anime 
+<h2 align="center">(҂⌣̀_⌣́) Hobbies</h2>
+<p align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/en/0/04/Nintendo_64_Logo.svg" height="60" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/GC_Logo.svg" height="60" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cib-crunchyroll_%28CoreUI_Icons_v1.0.0%29_orange.svg/2048px-Cib-crunchyroll_%28CoreUI_Icons_v1.0.0%29_orange.svg.png" height="60" />
+      <img src="https://seeklogo.com/images/M/magic-the-gathering-logo-121CFC67AF-seeklogo.com.png" height="60" />
 </p>
-      
+
+<h2 align="center">Favorite Comics</h2>
+<p align="center">
+      <img src="https://seeklogo.com/images/R/raphael-tmnt-logo-683D6700D6-seeklogo.com.png" height="60" />
+      <img src="https://static.wikia.nocookie.net/marveldatabase/images/2/2a/Warlock_%281972%29.png/revision/latest?cb=20130321004253" height="60" />
+      <img src="https://static.wikia.nocookie.net/logopedia/images/3/3d/Howard-the-duck-movie-logo.png/revision/latest?cb=20180818015727" height="60" />
+      <img src="https://static.wikia.nocookie.net/logocomics/images/8/89/Man-Thing_Vol_2_2.png/revision/latest?cb=20150320173535" height="60" />
+</p>
 </div>
