@@ -13,12 +13,12 @@
       <h2>𝚃𝚘𝚘𝚕𝚋𝚘𝚡 シ</h2>
       <div>
          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,kotlin,c,cs,cpp" />
+            <img src="https://skillicons.dev/icons?i=java,kotlin" />
          </a>
       </div>
       <div>
          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=javascript,nodejs,bash" />
+            <img src="https://skillicons.dev/icons?i=javascript" />
          </a>
       </div>
       <div>
