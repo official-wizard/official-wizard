@@ -39,4 +39,4 @@
   </ul>
 </div>
 <h2></h2>
-<p align="left"><img height="400px" src="https://steamuserimages-a.akamaihd.net/ugc/874126546585273718/C0DF12033CE9A517759E1BB2A06E254F814EA45D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=&letterbox=false"/></p>
+<p align="left"><img height="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNuenNmNXI1ZmprdmcyaGhnNzlydWg3ZDg2Y2J1N3d5eHBoczV5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XeAzRBAEexsn0rSQQD/giphy.gif"/></p>
