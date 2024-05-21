@@ -13,8 +13,8 @@
 
 <h2 align="center">Hobbies</h2>
 <p align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/en/0/04/Nintendo_64_Logo.svg" height="60" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/GC_Logo.svg" height="60" />
+      <img src="https://i.imgur.com/eumhMIi.gif" height="60" />
+      <img src="https://i.imgur.com/HHFVY2l.gif" height="60" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cib-crunchyroll_%28CoreUI_Icons_v1.0.0%29_orange.svg/2048px-Cib-crunchyroll_%28CoreUI_Icons_v1.0.0%29_orange.svg.png" height="60" />
       <img src="https://seeklogo.com/images/M/magic-the-gathering-logo-121CFC67AF-seeklogo.com.png" height="60" />
 </p>
