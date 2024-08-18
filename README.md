@@ -14,7 +14,7 @@
 <h2 align="center">Hobbies</h2>
 <p align="center">
       <img src="https://i.imgur.com/eumhMIi.gif" height="60" />
-      <img src="https://i.imgur.com/HHFVY2l.gif" height="60" />
+      <img src="https://i.imgur.com/fIahkYP.gif" height="60" />
       <img src="https://i.imgur.com/utuoLSO.gif" height="60" />
 </p>
 
