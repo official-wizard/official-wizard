@@ -12,10 +12,11 @@
 
 <h2 align="center">Hobbies</h2>
 <p align="center">
-      <img src="https://i.imgur.com/eumhMIi.gif" height="60" />
+<!--       <img src="https://i.imgur.com/eumhMIi.gif" height="60" />
       <img src="https://i.imgur.com/fIahkYP.gif" height="60" />
-      <img src="https://i.imgur.com/utuoLSO.gif" height="60" />
-</p>
+      <img src="https://i.imgur.com/utuoLSO.gif" height="60" /> -->
+      <img src="https://media.tenor.com/OGvl9cimcbcAAAAi/sega-sonic.gif" height="60"/>
+</div>
 
 <h2 align="center">Favorite Comics</h2>
 <p align="center">
