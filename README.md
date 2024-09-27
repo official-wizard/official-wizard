@@ -1,5 +1,5 @@
 <p align="center">
-      <img height="400px" src="https://media.tenor.com/EG6rKNWwoFIAAAAi/sonic.gif"/>
+      <img height="300px" src="https://media.tenor.com/EG6rKNWwoFIAAAAi/sonic.gif"/>
 </p>
 
 <h2 align="center">Skills</h2>
