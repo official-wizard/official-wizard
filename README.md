@@ -7,8 +7,7 @@
       <img src="https://skillicons.dev/icons?i=java,kotlin" />
       <img src="https://skillicons.dev/icons?i=javascript" />
       <img src="https://skillicons.dev/icons?i=html,css" />
-      <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
-      <img src="https://skillicons.dev/icons?i=idea,androidstudio,grafana,postman" />
+      <img src="https://skillicons.dev/icons?i=idea,grafana" />
 </p>
 
 <h2 align="center">Hobbies</h2>
