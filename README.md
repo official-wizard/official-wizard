@@ -15,7 +15,7 @@
 <!--       <img src="https://i.imgur.com/eumhMIi.gif" height="60" />
       <img src="https://i.imgur.com/fIahkYP.gif" height="60" />
       <img src="https://i.imgur.com/utuoLSO.gif" height="60" /> -->
-      <img src="https://media.tenor.com/OGvl9cimcbcAAAAi/sega-sonic.gif" height="60"/>
+      <img src="https://media.tenor.com/OGvl9cimcbcAAAAi/sega-sonic.gif" height="60" width="200"/>
 </div>
 
 <h2 align="center">Favorite Comics</h2>
