@@ -31,8 +31,14 @@
 <!--       <img src="https://i.imgur.com/eumhMIi.gif" height="60" />
       <img src="https://i.imgur.com/fIahkYP.gif" height="60" />
       <img src="https://i.imgur.com/utuoLSO.gif" height="60" /> -->
+      <a href="https://genius.com/Manu-chao-me-gustas-tu-lyrics">
+            <img src="https://128739182.xyz/card?query=Me%20Gustas%20Tu&chorus=true&backgroundColor=ECD950" />
+      </a>
       <a href="https://genius.com/Kid-cudi-heart-of-a-lion-kid-cudi-theme-music-lyrics">
             <img src="https://128739182.xyz/card?query=heart%20of%20a%20lion&chorus=true&backgroundColor=4E4D9B" />
+      </a>
+      <a href="https://genius.com/Kendrick-lamar-real-lyrics">
+            <img src="https://128739182.xyz/card?query=Kendrick%20Lamar%20Real&backgroundColor=B9BDBF" />
       </a>
 </div>
 </div>
