@@ -32,7 +32,7 @@
       <img src="https://i.imgur.com/fIahkYP.gif" height="60" />
       <img src="https://i.imgur.com/utuoLSO.gif" height="60" /> -->
       <a href="https://genius.com/Kid-cudi-heart-of-a-lion-kid-cudi-theme-music-lyrics">
-            <img src="https://128739182.xyz/card?query=heart%20of%20a%20lion&chorus=true&backgroundColor=4E4D9B" height="200" width="600"/>
+            <img src="https://128739182.xyz/card?query=heart%20of%20a%20lion&chorus=true&backgroundColor=4E4D9B" />
       </a>
 </div>
 </div>
