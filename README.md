@@ -35,7 +35,7 @@
             <img src="https://128739182.xyz/card?query=Manu%20Chaor%20Desaparecido&body=4&backgroundColor=52957B"/>
       </a>
       <a href="https://genius.com/Manu-chao-me-gustas-tu-lyrics">
-            <img src="https://128739182.xyz/card?query=Me%20Gustas%20Tu&chorus=true&backgroundColor=52957B"/>
+            <img src="https://128739182.xyz/card?query=Me%20Gustas%20Tu&body=1&backgroundColor=52957B"/>
       </a>
       <a href="https://genius.com/Kid-cudi-heart-of-a-lion-kid-cudi-theme-music-lyrics">
             <img src="https://128739182.xyz/card?query=heart%20of%20a%20lion&chorus=true&backgroundColor=4E4D9B" />
