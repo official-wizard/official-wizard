@@ -25,14 +25,5 @@
       <img src="https://static.wikia.nocookie.net/logopedia/images/3/3d/Howard-the-duck-movie-logo.png/revision/latest?cb=20180818015727" height="60" />
       <img src="https://static.wikia.nocookie.net/logocomics/images/8/89/Man-Thing_Vol_2_2.png/revision/latest?cb=20150320173535" height="60" />
 </p>
-
-<h2 align="center">Current Jam</h2>
-<p align="center">
-<!--       <img src="https://i.imgur.com/eumhMIi.gif" height="60" />
-      <img src="https://i.imgur.com/fIahkYP.gif" height="60" />
-      <img src="https://i.imgur.com/utuoLSO.gif" height="60" /> -->
-      <a href="https://genius.com/Spongebob-squarepants-and-the-losers-of-the-beach-ripped-pants-lyrics">
-            <img src="https://128739182.xyz/card?query=Ripped%20Pants&backgroundColor=B9BDBF" />
-      </a>
 </div>
 </div>
