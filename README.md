@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://i.imgur.com/pTl1rvz.gif" height="140" width="140"/>
+      <img src="https://user-images.githubusercontent.com/210965/90380868-888d2100-e074-11ea-8f1f-2920212eb45c.gif" height="140" width="140"/>
 </p>
 
 <h2 align="center">Skills</h2>
