@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://user-images.githubusercontent.com/210965/90380868-888d2100-e074-11ea-8f1f-2920212eb45c.gif" height="140" width="140"/>
+      <img src="https://i.imgur.com/897x2mn.gif" height="140" width="140"/>
 </p>
 
 <h2 align="center">Skills</h2>
@@ -15,7 +15,7 @@
 <!--       <img src="https://i.imgur.com/eumhMIi.gif" height="60" />
       <img src="https://i.imgur.com/fIahkYP.gif" height="60" />
       <img src="https://i.imgur.com/utuoLSO.gif" height="60" /> -->
-      <img src="https://media.tenor.com/OGvl9cimcbcAAAAi/sega-sonic.gif" height="60" width="200"/>
+      <img src="https://i.imgur.com/RZRQ10k.gif" height="60" width="200"/>
 </div>
 </div>
 </div>
