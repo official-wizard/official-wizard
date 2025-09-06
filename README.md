@@ -4,10 +4,9 @@
 
 <h2 align="center">Skills</h2>
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=java,kotlin" />
+      <img src="https://skillicons.dev/icons?i=kotlin" />
       <img src="https://skillicons.dev/icons?i=javascript" />
       <img src="https://skillicons.dev/icons?i=html,css" />
-      <img src="https://skillicons.dev/icons?i=idea,grafana" />
 </p>
 
 <h2 align="center">Hobbies</h2>
