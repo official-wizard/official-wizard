@@ -1,9 +1,5 @@
-<p align="center">
-      <img src="https://i.imgur.com/897x2mn.gif" height="140" width="140"/>
-</p>
 
 <p align="center">
-      <img src="https://i.imgur.com/RZRQ10k.gif" height="60" width="200"/>
-</div>
-</div>
-</div>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyenhnaTcycjRsZ242ZHlhZ2Rid3g5ZDJ0YTdlMGJsNDZuNnNrY2FrOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vh9I5zHeeAVTgk7iSK/source.gif" />
+      <p align="center">I'm a Developer.</p>
+</p>
