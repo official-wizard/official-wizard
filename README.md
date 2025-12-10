@@ -1,8 +1,4 @@
 
 <p align="center">
-      <img height="500" src="https://i.imgur.com/w1XurtM.png" />
-</p>
-
-<p align="center">
-      <img src="http://i.picasion.com/gl/93/l2f3.gif"/>
+      <img height="500" src="https://i.gifer.com/origin/b2/b243e74760b865e65015344ecf37d021_w200.gif" />
 </p>
