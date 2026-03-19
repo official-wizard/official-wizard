@@ -1,6 +1,6 @@
 
 <p align="center">
-      <img height="500" src="assets/glitch.gif" />
+      <img height="500" src="assets/black_squares_cropped.gif" />
 </p>
 <p align="center">
       <img height="500" src="assets/experience.gif" />
