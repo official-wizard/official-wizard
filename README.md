@@ -1,6 +1,6 @@
 
 <p align="center">
-      <img height="500" src="assets/black_squares_cropped.gif" />
+      <img height="500" src="assets/holographic_blob.gif" />
 </p>
 <p align="center">
       <img height="500" src="assets/experience.gif" />
