@@ -6,10 +6,10 @@
 
 
 <p align="center">
-      <img height="80" src="/assets/rn-blur-gray.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-      <img height="80" src="/assets/kotlin-blur-gray-2.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-      <img height="80" src="/assets/mobile-blur-gray.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-      <img height="80" src="/assets/web-blur-gray.png" />
+      <img height="60" src="/assets/rn-blur-gray.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      <img height="60" src="/assets/kotlin-blur-gray-2.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      <img height="60" src="/assets/mobile-blur-gray.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      <img height="60" src="/assets/web-blur-gray.png" />
 </p>
 
 <br>
