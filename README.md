@@ -16,7 +16,7 @@
 <br>
 
 <p align="center" >
-      <a href="https://www.youtube.com/watch?v=gnCCTFPx8kY">
+      <a href="https://www.youtube.com/watch?v=gnCCTFPx8kY" target="_blank">
             <img height="150" src="/assets/listen-to-playlist.png" />
       </a>
 </p>
