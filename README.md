@@ -20,3 +20,9 @@
             <img height="150" src="/assets/listen-to-playlist.png" />
       </a>
 </p>
+
+<p align="center" >
+      <a href="https://www.unsw.edu.au/newsroom/news/2024/05/-the-dead-internet-theory-makes-eerie-claims-about-an-ai-run-web-the-truth-is-more-sinister" target="_blank">
+            <img height="150" src="/assets/dead-internet-theory.png" />
+      </a>
+</p>
