@@ -22,7 +22,7 @@
 </p>
 
 <p align="center" >
-      <a href="https://www.unsw.edu.au/newsroom/news/2024/05/-the-dead-internet-theory-makes-eerie-claims-about-an-ai-run-web-the-truth-is-more-sinister" target="_blank">
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5085878" target="_blank">
             <img height="150" src="/assets/dead-internet-theory.png" />
       </a>
 </p>
