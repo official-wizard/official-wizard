@@ -1,7 +1,7 @@
 
 <p align="center">
       <img height="500" src="/assets/hand.png" />
-      <img height="500" src="/assets/title.png" />
+      <img height="500" src="/assets/title-blur.png" />
 </p>
 
 
