@@ -1,15 +1,15 @@
 
 <p align="center">
       <img height="500" src="/assets/hand.png" />
-      <img height="500" src="/assets/title-blur.png" />
+      <img height="500" src="/assets/full-stack-crayon.png" />
 </p>
 
 
 <p align="center">
-      <img height="60" src="/assets/rn-blur-gray.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-      <img height="60" src="/assets/kotlin-blur-gray-2.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-      <img height="60" src="/assets/mobile-blur-gray.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-      <img height="60" src="/assets/web-blur-gray.png" />
+      <img height="60" src="/assets/react-crayon.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      <img height="60" src="/assets/kotlin-crayon.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      <img height="60" src="/assets/mobile-crayon.png" />&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      <img height="60" src="/assets/web-crayon.png" />
 </p>
 
 <br>
