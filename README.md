@@ -26,3 +26,10 @@
             <img height="150" src="/assets/dead-internet-crayon.png" />
       </a>
 </p>
+
+
+<p align="center" >
+      <a href="https://fuckvibecoding.com/" target="_blank">
+            <img height="150" src="/assets/vibe-coders-eat-crayons.png" />
+      </a>
+</p>
