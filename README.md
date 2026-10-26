@@ -17,12 +17,12 @@
 
 <p align="center" >
       <a href="https://www.youtube.com/watch?v=gnCCTFPx8kY" target="_blank">
-            <img height="150" src="/assets/listen-to-playlist.png" />
+            <img height="150" src="/assets/listen-to-crayon.png" />
       </a>
 </p>
 
 <p align="center" >
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5085878" target="_blank">
-            <img height="150" src="/assets/dead-internet-theory.png" />
+            <img height="150" src="/assets/dead-internet-crayon.png" />
       </a>
 </p>
